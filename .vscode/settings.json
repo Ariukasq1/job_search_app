@@ -1,0 +1,52 @@
+{
+  "editor.fontSize": 12,
+  "editor.cursorBlinking": "smooth",
+  "workbench.colorCustomizations": {
+    "statusBar.noFolderBackground": "#333"
+  },
+  "explorer.sortOrder": "type",
+  "workbench.editor.highlightModifiedTabs": true,
+  "files.autoSave": "onFocusChange",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.tslint": true
+  },
+  "editor.wordWrap": "on",
+  "html.format.endWithNewline": true,
+  "html.format.indentInnerHtml": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.visible": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "workbench.iconTheme": "vscode-icons",
+  "code-runner.runInTerminal": true,
+  "explorer.confirmDelete": false,
+  "code-runner.saveFileBeforeRun": true,
+  "prettier.singleQuote": true,
+  "editor.bracketPairColorization.enabled": true,
+  "git.autofetch": true,
+  "editor.inlineSuggest.enabled": true,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "prettier.trailingComma": "none",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "prettier.arrowParens": "avoid",
+  "typescript.preferences.quoteStyle": "single",
+  "editor.trimAutoWhitespace": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.formatOnType": true
+  }
+}
