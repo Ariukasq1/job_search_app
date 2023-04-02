@@ -24,7 +24,7 @@
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.formatOnPaste": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "workbench.iconTheme": "vscode-icons",
+  "workbench.iconTheme": "material-icon-theme",
   "code-runner.runInTerminal": true,
   "explorer.confirmDelete": false,
   "code-runner.saveFileBeforeRun": true,
