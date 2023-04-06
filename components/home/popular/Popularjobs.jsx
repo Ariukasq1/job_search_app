@@ -19,7 +19,7 @@ const Popularjobs = () => {
     query: 'React developer',
     num_pages: '1'
   });
-  console.log('Pop isLoading', isLoading);
+
   const [selectedJob, setSelectedJob] = useState();
 
   const handleCardPress = item => {
